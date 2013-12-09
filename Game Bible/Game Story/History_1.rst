@@ -1,4 +1,4 @@
--Um robô criança acorda no Lixão. Ele tem lembranças de ser 'irmão'* de um humano, mas não sabe como parou lá.
+-Um robô criança acorda no Lixão. Ele tem lembranças de ser 'irmão' de um humano, mas não sabe como parou lá.
  *A família humana comprou esse robô para fazer companhia ao seu filho
 
 - Ele encontra um robô velho, que passou toda a vida no Lixão. Ele fala que ninguém nunca escapou de lá,
